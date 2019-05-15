@@ -1,11 +1,11 @@
 {
-  "name": "KompiTextAja",
-  "short_name": "KompiTextAja",
+  "name": "DakiSemut",
+  "short_name": "DakiSemut",
   "start_url": "https://www.dksmtblog.com/",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#C51162",
-  "description": "Blog yang ditampilkan hanya text saja, tetapi di postingan bisa ditambah image dan video Youtube.",
+  "description": "DakiSemut adalah tempat berbagi informasi terbaru di internet.",
   "icons": [{
     "src": "https://2.bp.blogspot.com/-Tacyc4aXaOY/WnnJjJ0LjgI/AAAAAAAABgs/_fOsFo8Sq-stMlJRpjQ5SEH7rxu9Da-2ACLcBGAs/s48/no-thumbnail.jpg",
     "sizes": "48x48",
